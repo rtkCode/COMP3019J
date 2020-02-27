@@ -1,0 +1,44 @@
+{% if is_login %}
+    {% extends "base_logged_in.html" %}
+{% else %}
+    {% extends "base.html" %}
+{% endif %}
+
+{% block content %}
+<div class="content">
+    <h1 class="title">Enter <i><u style="color: #000000">RSS</u></i> feed link below</h1>
+    {# learned from lecture code #}
+    <form class="index-form" action="" method="post" novalidate>
+        {{ form.hidden_tag() }}
+        <div class="form-container">
+            {{ form.link() }}
+            {{ form.submit() }}
+        </div>
+        <p class="error error-url"><small>*Please input valid url format</small></p>
+    </form>
+    {% if show_list %}
+    <script>document.querySelector(".content").style.marginTop=0</script>{# adjust title position #}
+    {# list feeds #}
+    <div class="list">
+        <h2 class="feed-title"><a href="{{ list.link }}" target="_blank"><strong>{{ list.title }}</strong></a><small class="feed-subtitle"> - {{ list.subtitle|striptags }}</small></h2>
+        {% for i in range(count) %}
+        <div>
+            <h3 class="list-title"><a>{{ list.entries[i].title }}</a></h3>
+            <blockquote class="list-summary">
+                <p>{{ list.entries[i].summary|safe }}</p>
+            </blockquote>
+            <div class="list-hidden">
+                <div>
+                    <small>{{ list.entries[i].published }}</small>
+                    <small>Link: <a href="{{ list.entries[i].link }}" target="_blank">{{ list.entries[i].link }}</a></small>
+                </div>
+                <div class="list-content">
+                    {{ list.entries[i].content|safe }}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

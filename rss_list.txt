@@ -1,0 +1,23 @@
+## This file store rss links that I found on the Internet, you can use these to test
+
+https://www.smashingmagazine.com/feed/
+https://www.npr.org/rss/rss.php?id=1001
+https://www.androidpolice.com/feed/
+https://rsshub.app/google/doodles/en-US
+https://blog.hubspot.com/marketing/rss.xml
+
+https://iecho.cc/atom.xml
+https://www.moerats.com/feed
+https://51.ruyo.net/feed/
+
+https://rsshub.app/google/doodles/en-US
+https://rsshub.app/apple/exchange_repair/en-us
+
+https://rsshub.app/wikihow/index
+https://feeds.howtogeek.com/HowToGeek
+https://www.npr.org/rss/podcast.php?id=510298
+https://hnrss.org/newest
+https://hnrss.org/frontpage
+https://nakedsecurity.sophos.com/feed/
+https://www.entrepreneur.com/topic/marketing.rss
+

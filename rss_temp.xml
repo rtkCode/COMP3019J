@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+
+<channel>
+	<title>Android Police &#8211; Android news, reviews, apps, games, phones, tablets</title>
+	<atom:link href="https://www.androidpolice.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.androidpolice.com</link>
+	<description>Looking after everything Android</description>
+	<lastBuildDate>Thu, 27 Feb 2020 00:01:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+<atom:link rel="hub" href="https://pubsubhubbub.appspot.com"/><atom:link rel="hub" href="https://androidpolice.superfeedr.com"/>
+<webfeeds:cover image="https://www.androidpolice.com/wp-content/themes/ap2/images/apple-touch-icon.png" />
+<webfeeds:logo>https://www.androidpolice.com/wp-content/themes/ap2/images/apple-touch-icon.png</webfeeds:logo>
+<webfeeds:icon>https://www.androidpolice.com/wp-content/themes/ap2/images/apple-touch-icon.png</webfeeds:icon>
+<webfeeds:wordmark>https://www.androidpolice.com/wp-content/themes/ap2/images/ap-logo-textonly.svg</webfeeds:wordmark>
+<webfeeds:accentColor>157bda</webfeeds:accentColor>
+	<item>
+		<title>Netflix gets new Chromecast UI with content recommendations and more</title>
+		<link>https://www.androidpolice.com/2020/02/26/netflix-gets-new-chromecast-ui-with-content-recommendations-and-more/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/netflix-gets-new-chromecast-ui-with-content-recommendations-and-more/#comments</comments>
+				<pubDate>Thu, 27 Feb 2020 00:01:52 +0000</pubDate>
+		<dc:creator><![CDATA[Ryne Hager]]></dc:creator>
+				<category><![CDATA[Chromecast]]></category>
+		<category><![CDATA[Netflix]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Chomecast]]></category>
+		<category><![CDATA[Chromecast UI]]></category>
+		<category><![CDATA[content recommendations]]></category>
+		<category><![CDATA[netflix]]></category>
+		<category><![CDATA[Netflix UI]]></category>
+		<category><![CDATA[ui]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=664525</guid>
+				<description><![CDATA[It&#039;s better than just staring at a static logo
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2020/02/ezgif.com-optimize-27-1.gif" class=" no-style"><img class="alignnone size-full wp-image-664549" src="https://www.androidpolice.com/wp-content/uploads/2020/02/ezgif.com-optimize-27-1.gif" alt="" width="728" height="410"/></a></p>
+<p>When you get home from work and fire up Netflix on the Chromecast tonight, you might notice that something's a bit different today. The company is rolling out a new, and much more attractive interface for the entire Netflix-on-Chromecast experience, including a revamped ambient "Ready to Cast" screen and some tweaks to the loading screen and pause screen.</p>
+<p><span id="more-664525"></span></p>
+<p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2020/02/image-4.jpg" class=" no-style"><img class="alignnone size-large wp-image-664550" src="https://www.androidpolice.com/wp-content/uploads/2020/02/image-4-668x376.jpg" alt="" width="668" height="376" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/image-4-668x376.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/image-4-329x185.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/image-4-161x91.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/image-4-217x122.jpg 217w, https://www.androidpolice.com/wp-content/uploads/2020/02/image-4-728x410.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/image-4.jpg 1920w" sizes="(max-width: 668px) 100vw, 668px"/></a></p>
+<p>The "Ready to Cast" screen that shows once you connect the app to your Chromecast has a dramatically updated look.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/netflix-gets-new-chromecast-ui-with-content-recommendations-and-more/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/netflix-gets-new-chromecast-ui-with-content-recommendations-and-more/'>Netflix gets new Chromecast UI with content recommendations and more</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/netflix-gets-new-chromecast-ui-with-content-recommendations-and-more/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+							</item>
+		<item>
+		<title>Laptop-phone Cosmo Communicator hits 350% of crowdfunding goal (Update: Linux support)</title>
+		<link>https://www.androidpolice.com/2020/02/26/laptop-phone-cosmo-communicator-hits-350-crowdfunding-goal/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/laptop-phone-cosmo-communicator-hits-350-crowdfunding-goal/#comments</comments>
+				<pubDate>Wed, 26 Feb 2020 23:11:41 +0000</pubDate>
+		<dc:creator><![CDATA[Ryne Hager]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Cosmo Communicator]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[indiegogo]]></category>
+		<category><![CDATA[laptop form-factor]]></category>
+		<category><![CDATA[PDA]]></category>
+		<category><![CDATA[Planet Computers]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=527633&#038;uniqid=5e56fcf609264</guid>
+				<description><![CDATA[<ul class="list-unstyled list-banners"><li>
+            <a class="banner banner-update" title="View the 2020/02/26 3:19pm PST Update" href="https://www.androidpolice.com/2020/02/26/laptop-phone-cosmo-communicator-hits-350-crowdfunding-goal/#1">
+            <span class="update-header">Update<span class="update_1">&#160;1</span>: 2020/02/26 3:19pm PST</span>
+            <div class="ellipsize">
+            <span class="update-title">One of the selling points for the Cosmo Communicator was the promise of dual-boot Linux support, and now the Linux system image is available to try out. The installation process</span>
+            </div>
+            </a>
+            </li></ul><p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2018/11/chrome_2018-11-13_18-23-24.jpg" class=" no-style"><img class="alignnone size-hero-size wp-image-527641" src="https://www.androidpolice.com/wp-content/uploads/2018/11/chrome_2018-11-13_18-23-24-728x415.jpg" alt="" width="668" height="381" srcset="https://www.androidpolice.com/wp-content/uploads/2018/11/chrome_2018-11-13_18-23-24-728x415.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2018/11/chrome_2018-11-13_18-23-24-329x187.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2018/11/chrome_2018-11-13_18-23-24-768x438.jpg 768w, https://www.androidpolice.com/wp-content/uploads/2018/11/chrome_2018-11-13_18-23-24-668x381.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2018/11/chrome_2018-11-13_18-23-24-161x92.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2018/11/chrome_2018-11-13_18-23-24-217x124.jpg 217w" sizes="(max-width: 668px) 100vw, 668px"/></a></p>
+<p>A bit over a week ago, an Android phone with a PDA/laptop form-factor called the Cosmo Communicator hit <a href="https://www.indiegogo.com/projects/cosmo-communicator#/">Indiegogo</a>. I know, I know, crowdfund projects are whatever, but the Cosmo has two interesting things going for it: the company behind it (Planet Computers) already has <a href="https://www.indiegogo.com/projects/gemini-pda-android-linux-keyboard-mobile-device--2/x/5364820#/">one similar success</a> under its belt, and the project is already over 350% funded with three weeks left to go.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/laptop-phone-cosmo-communicator-hits-350-crowdfunding-goal/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/laptop-phone-cosmo-communicator-hits-350-crowdfunding-goal/'>Laptop-phone Cosmo Communicator hits 350% of crowdfunding goal (Update: Linux support)</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/laptop-phone-cosmo-communicator-hits-350-crowdfunding-goal/feed/</wfw:commentRss>
+		<slash:comments>55</slash:comments>
+							</item>
+		<item>
+		<title>Microsoft Outlook adds annotation feature for photos and scanned documents</title>
+		<link>https://www.androidpolice.com/2020/02/26/microsoft-outlook-adds-annotation-feature-for-photos-and-scanned-documents/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/microsoft-outlook-adds-annotation-feature-for-photos-and-scanned-documents/#comments</comments>
+				<pubDate>Wed, 26 Feb 2020 23:08:54 +0000</pubDate>
+		<dc:creator><![CDATA[Corbin Davenport]]></dc:creator>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[annotate]]></category>
+		<category><![CDATA[annotation]]></category>
+		<category><![CDATA[image annotation]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[Microsoft outlook]]></category>
+		<category><![CDATA[outlook]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=664527</guid>
+				<description><![CDATA[Scribble on your photos without leaving your email app
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2020/02/outlook-generic-hero.jpg" class=" no-style"><img class="alignnone size-hero-size wp-image-664528" src="https://www.androidpolice.com/wp-content/uploads/2020/02/outlook-generic-hero-728x410.jpg" alt="" width="728" height="410" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/outlook-generic-hero-728x410.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/outlook-generic-hero-329x185.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/outlook-generic-hero-668x376.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/outlook-generic-hero-161x91.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/outlook-generic-hero-217x122.jpg 217w, https://www.androidpolice.com/wp-content/uploads/2020/02/outlook-generic-hero.jpg 1280w" sizes="(max-width: 728px) 100vw, 728px"/></a></p>
+<p>Outlook is one of the most popular third-party email apps on Android, and it keeps getting better. Only a few months after rolling out <a href="https://www.androidpolice.com/2019/09/05/microsoft-outlook-dark-mode/">dark mode support</a> and <a href="https://www.androidpolice.com/2019/09/16/outlook-pop3/">POP3 integration</a>, the app has added the ability to annotate photos and documents &#8288;using your phone's camera.<span id="more-664527"></span></p>
+<p>While composing an email, you can tap on the camera button to take a photo or scan a document. That functionality isn't new, but what is new is that you can now draw on top of images.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/microsoft-outlook-adds-annotation-feature-for-photos-and-scanned-documents/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/microsoft-outlook-adds-annotation-feature-for-photos-and-scanned-documents/'>Microsoft Outlook adds annotation feature for photos and scanned documents</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/microsoft-outlook-adds-annotation-feature-for-photos-and-scanned-documents/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+		<item>
+		<title>Snag a Samsung Chromebook 4 15&quot; for $232 ($88 off) at Amazon</title>
+		<link>https://www.androidpolice.com/2020/02/26/snag-a-samsung-chromebook-4-15-for-232-88-off-at-amazon/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/snag-a-samsung-chromebook-4-15-for-232-88-off-at-amazon/#respond</comments>
+				<pubDate>Wed, 26 Feb 2020 22:26:32 +0000</pubDate>
+		<dc:creator><![CDATA[Zach Laidlaw]]></dc:creator>
+				<category><![CDATA[Chromebooks]]></category>
+		<category><![CDATA[Deals]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[chrome os]]></category>
+		<category><![CDATA[chromebook]]></category>
+		<category><![CDATA[chromeos]]></category>
+		<category><![CDATA[deal]]></category>
+		<category><![CDATA[deal alert]]></category>
+		<category><![CDATA[deals]]></category>
+		<category><![CDATA[samsung chromebook 4]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=664478</guid>
+				<description><![CDATA[<p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2020/02/Samsung-Chromebook-4-Deal.png" class=" no-style"><img class="alignnone size-hero-size wp-image-664483" src="https://www.androidpolice.com/wp-content/uploads/2020/02/Samsung-Chromebook-4-Deal-728x455.png" alt="" width="728" height="455" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/Samsung-Chromebook-4-Deal-728x455.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/Samsung-Chromebook-4-Deal-329x206.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/Samsung-Chromebook-4-Deal-668x418.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/Samsung-Chromebook-4-Deal-161x101.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/Samsung-Chromebook-4-Deal-217x136.png 217w, https://www.androidpolice.com/wp-content/uploads/2020/02/Samsung-Chromebook-4-Deal.png 1456w" sizes="(max-width: 728px) 100vw, 728px"/></a></p>
+<p>There are many reasons to prefer Chrome OS over other operating systems. It's lightweight, always up to date, and isn't susceptible to traditional viruses. If you've been curious about trying out a Chromebook to replace your current computer, serve as a second computer, or even be your only computer, you should definitely check out this <a href="https://www.amazon.com/SAMSUNG-Chromebook-Celeron-Processor-XE350XBA-K02US/dp/B07XQQRCG5?tag=androidpolice-20">Samsung Chromebook 4 15" for $232.49 ($87.50 off) at Amazon</a>.</p>
+<p><span id="more-664478"></span></p>
+<p>Samsung is known for building quality hardware, and the Chromebook 4 15" is no different.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/snag-a-samsung-chromebook-4-15-for-232-88-off-at-amazon/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/snag-a-samsung-chromebook-4-15-for-232-88-off-at-amazon/'>Snag a Samsung Chromebook 4 15" for $232 ($88 off) at Amazon</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/snag-a-samsung-chromebook-4-15-for-232-88-off-at-amazon/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Ad-free news subscription Scroll now hides unsightly toolbar by default (Update: Dark mode too)</title>
+		<link>https://www.androidpolice.com/2020/02/26/ad-free-news-subscription-service-scroll-now-hides-unsightly-toolbar-by-default/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/ad-free-news-subscription-service-scroll-now-hides-unsightly-toolbar-by-default/#comments</comments>
+				<pubDate>Wed, 26 Feb 2020 22:10:24 +0000</pubDate>
+		<dc:creator><![CDATA[Zach Laidlaw]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Advertisements]]></category>
+		<category><![CDATA[android police]]></category>
+		<category><![CDATA[news service]]></category>
+		<category><![CDATA[news subscription]]></category>
+		<category><![CDATA[scroll]]></category>
+		<category><![CDATA[subscription]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=663858&#038;uniqid=5e56eec94fd04</guid>
+				<description><![CDATA[Android Police just keeps getting better
+<ul class="list-unstyled list-banners"><li>
+            <a class="banner banner-update" title="View the 2020/02/26 2:18pm PST Update" href="https://www.androidpolice.com/2020/02/26/ad-free-news-subscription-service-scroll-now-hides-unsightly-toolbar-by-default/#1">
+            <span class="update-header">Update<span class="update_1">&#160;1</span>: 2020/02/26 2:18pm PST</span>
+            <div class="ellipsize">
+            <span class="update-title">After we rolled out our dark theme earlier this month, many of you asked when the Scroll bar would match the theme. You'll be glad to hear that Scroll</span>
+            </div>
+            </a>
+            </li></ul><p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2020/02/Scroll-App-Hero.png" class=" no-style"><img class="alignnone size-hero-size wp-image-664105" src="https://www.androidpolice.com/wp-content/uploads/2020/02/Scroll-App-Hero-728x455.png" alt="" width="728" height="455" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/Scroll-App-Hero-728x455.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/Scroll-App-Hero-329x206.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/Scroll-App-Hero-668x418.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/Scroll-App-Hero-161x101.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/Scroll-App-Hero-217x136.png 217w, https://www.androidpolice.com/wp-content/uploads/2020/02/Scroll-App-Hero.png 1456w" sizes="(max-width: 728px) 100vw, 728px"/></a></p>
+<p>If you haven't heard of Scroll by now (<em>where have you been?</em>), it's this nifty service that <a href="https://www.androidpolice.com/2020/01/28/new-scroll-subscription-service-removes-ads-from-over-300-news-sites-including-android-police/">removes ads from 300 of your favorite news sites, including Android Police</a>.&#160;Although the service is quite young, its developers have been quick to implement changes that readers have been begging for.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/ad-free-news-subscription-service-scroll-now-hides-unsightly-toolbar-by-default/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/ad-free-news-subscription-service-scroll-now-hides-unsightly-toolbar-by-default/'>Ad-free news subscription Scroll now hides unsightly toolbar by default (Update: Dark mode too)</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/ad-free-news-subscription-service-scroll-now-hides-unsightly-toolbar-by-default/feed/</wfw:commentRss>
+		<slash:comments>25</slash:comments>
+							</item>
+		<item>
+		<title>Google Image Search results will stop highlighting picture dimensions in favor of new labels and licensing details</title>
+		<link>https://www.androidpolice.com/2020/02/26/google-image-search-results-will-stop-highlighting-picture-dimensions-in-favor-of-new-labels-and-licensing-details/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/google-image-search-results-will-stop-highlighting-picture-dimensions-in-favor-of-new-labels-and-licensing-details/#comments</comments>
+				<pubDate>Wed, 26 Feb 2020 21:40:35 +0000</pubDate>
+		<dc:creator><![CDATA[Jules Wang]]></dc:creator>
+				<category><![CDATA[Google]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Google Image Search]]></category>
+		<category><![CDATA[google images]]></category>
+		<category><![CDATA[google search]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=664470</guid>
+				<description><![CDATA[Those labels tell you what type of content will be on the website the image is on
+<p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimensions-hero-1.png" class=" no-style"><img class="alignnone size-hero-size wp-image-664475" src="https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimensions-hero-1-728x410.png" alt="" width="728" height="410" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimensions-hero-1-728x410.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimensions-hero-1-329x185.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimensions-hero-1-668x376.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimensions-hero-1-161x91.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimensions-hero-1-217x122.png 217w, https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimensions-hero-1.png 1280w" sizes="(max-width: 728px) 100vw, 728px"/></a></p>
+<p>If you're using Google Image Search in any serious capacity &#8212; say, to fill a slideshow up with helpful, relevant visual media &#8212; then you may be somewhat concerned with the dimensions of the pictures you're finding (that is, how well a picture will blow up). However, the search engine company will soon deprioritize this information in favor of showing you other parameters.</p>
+<p><span id="more-664470"></span></p>
+<p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimension-a.png" class=" no-style"><img class="alignnone size-large wp-image-664477" src="https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimension-a-668x485.png" alt="" width="668" height="485" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimension-a-668x485.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimension-a-329x239.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimension-a-161x117.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimension-a-217x158.png 217w, https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimension-a-728x529.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/google-image-search-dimension-a.png 1222w" sizes="(max-width: 668px) 100vw, 668px"/></a></p>
+<p>The Google SearchLiaison Twitter account has posted that Image Search will begin emphasizing the content that's associated with the images in search results through small icons &#8212; recipes, videos, blog posts, or even media available for licensing.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/google-image-search-results-will-stop-highlighting-picture-dimensions-in-favor-of-new-labels-and-licensing-details/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/google-image-search-results-will-stop-highlighting-picture-dimensions-in-favor-of-new-labels-and-licensing-details/'>Google Image Search results will stop highlighting picture dimensions in favor of new labels and licensing details</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/google-image-search-results-will-stop-highlighting-picture-dimensions-in-favor-of-new-labels-and-licensing-details/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+							</item>
+		<item>
+		<title>Google Translate is adding five new languages, including Uyghur and Turkmen</title>
+		<link>https://www.androidpolice.com/2020/02/26/google-translate-is-adding-five-new-languages-including-uyghur-and-turkmen/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/google-translate-is-adding-five-new-languages-including-uyghur-and-turkmen/#comments</comments>
+				<pubDate>Wed, 26 Feb 2020 19:50:35 +0000</pubDate>
+		<dc:creator><![CDATA[Zach Laidlaw]]></dc:creator>
+				<category><![CDATA[Google]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[google translate]]></category>
+		<category><![CDATA[google translate update]]></category>
+		<category><![CDATA[translate]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=664452</guid>
+				<description><![CDATA[Google can now translate 108 languages across the web
+<p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2020/02/translate-dark-mode-1.png" class=" no-style"><img class="alignnone size-hero-size wp-image-659227" src="https://www.androidpolice.com/wp-content/uploads/2020/02/translate-dark-mode-1-728x410.png" alt="" width="728" height="410" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/translate-dark-mode-1-728x410.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/translate-dark-mode-1-329x185.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/translate-dark-mode-1-668x376.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/translate-dark-mode-1-161x91.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/translate-dark-mode-1-217x122.png 217w, https://www.androidpolice.com/wp-content/uploads/2020/02/translate-dark-mode-1.png 1440w" sizes="(max-width: 728px) 100vw, 728px"/></a></p>
+<p>Just a day after we noticed that Google Translate will soon be able to <a href="https://www.androidpolice.com/2020/02/25/google-translate-history-will-soon-be-saved-to-your-google-account/">save translation history to Google accounts</a>, the service is back in the news. This time, the Google Translate team has announced that five new languages &#8212;&#160;Kinyarwanda, Odia (Oriya), Tatar, Turkmen, and Uyghur &#8212; are coming to its growing library.</p>
+<p><span id="more-664452"></span></p>
+<p>According to Google, languages like these that haven't been utilized often across the web are particularly difficult for its&#160; platform to study and decipher.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/google-translate-is-adding-five-new-languages-including-uyghur-and-turkmen/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/google-translate-is-adding-five-new-languages-including-uyghur-and-turkmen/'>Google Translate is adding five new languages, including Uyghur and Turkmen</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/google-translate-is-adding-five-new-languages-including-uyghur-and-turkmen/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+		<item>
+		<title>Treat your ears to a pair of refurbished Samsung Galaxy Buds for $55 ($75 off)</title>
+		<link>https://www.androidpolice.com/2020/02/26/treat-your-ears-to-a-pair-of-refurbished-samsung-galaxy-buds-for-55-75-off/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/treat-your-ears-to-a-pair-of-refurbished-samsung-galaxy-buds-for-55-75-off/#comments</comments>
+				<pubDate>Wed, 26 Feb 2020 19:44:28 +0000</pubDate>
+		<dc:creator><![CDATA[Taylor Kerns]]></dc:creator>
+				<category><![CDATA[Deals]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[deals]]></category>
+		<category><![CDATA[galaxy buds]]></category>
+		<category><![CDATA[refurbished]]></category>
+		<category><![CDATA[true wireless earbuds]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=664426</guid>
+				<description><![CDATA[A great deal on great earbuds
+<p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2019/02/Galaxy-buds-5.jpg" class=" no-style"><img class="alignnone size-hero-size wp-image-547179" src="https://www.androidpolice.com/wp-content/uploads/2019/02/Galaxy-buds-5-728x546.jpg" alt="" width="728" height="546" srcset="https://www.androidpolice.com/wp-content/uploads/2019/02/Galaxy-buds-5-728x546.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2019/02/Galaxy-buds-5-329x247.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2019/02/Galaxy-buds-5-768x576.jpg 768w, https://www.androidpolice.com/wp-content/uploads/2019/02/Galaxy-buds-5-668x501.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2019/02/Galaxy-buds-5-161x121.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2019/02/Galaxy-buds-5-217x163.jpg 217w" sizes="(max-width: 728px) 100vw, 728px"/></a></p>
+<p>Samsung's Galaxy Buds+ might be the new true wireless hotness, but the original model is still really great, with decent battery life, pleasing sound quality, and a sleek, pocketable case. And if you're on the hunt for a pair of good, cheap wireless earbuds, this deal definitely fits the bill: you can get a refurbished set of Galaxy Buds for $55 at Best Buy.</p>
+<p><span id="more-664426"></span></p>
+<p>Scott was a fan of the Galaxy Buds when he <a href="https://www.androidpolice.com/2019/03/05/samsung-galaxy-buds-review/">reviewed them last year</a>: "They probably aren&#8217;t the best at anything," he wrote, "but they do everything pretty well." That's true at their MSRP, and it's&#160;<em>absolutely&#160;</em>true at more than half off.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/treat-your-ears-to-a-pair-of-refurbished-samsung-galaxy-buds-for-55-75-off/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/treat-your-ears-to-a-pair-of-refurbished-samsung-galaxy-buds-for-55-75-off/'>Treat your ears to a pair of refurbished Samsung Galaxy Buds for $55 ($75 off)</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/treat-your-ears-to-a-pair-of-refurbished-samsung-galaxy-buds-for-55-75-off/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+							</item>
+		<item>
+		<title>Leaked Surface Duo demo videos show off &#039;peeking&#039; notifications UI</title>
+		<link>https://www.androidpolice.com/2020/02/26/leaked-surface-duo-demo-videos-show-off-peeking-notifications-ui/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/leaked-surface-duo-demo-videos-show-off-peeking-notifications-ui/#comments</comments>
+				<pubDate>Wed, 26 Feb 2020 18:20:27 +0000</pubDate>
+		<dc:creator><![CDATA[Jules Wang]]></dc:creator>
+				<category><![CDATA[Leaks]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Surface Duo]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[foldables]]></category>
+		<category><![CDATA[leaks]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[peeking]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[ui]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=664419</guid>
+				<description><![CDATA[It&#039;s an open-and-shut case of software design
+<p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2020/02/surface-duo-ui-hero-1.png" class=" no-style"><img class="alignnone wp-image-664432 size-hero-size" src="https://www.androidpolice.com/wp-content/uploads/2020/02/surface-duo-ui-hero-1-728x410.png" width="728" height="410" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/surface-duo-ui-hero-1-728x410.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/surface-duo-ui-hero-1-329x185.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/surface-duo-ui-hero-1-668x376.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/surface-duo-ui-hero-1-161x91.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/surface-duo-ui-hero-1-217x122.png 217w, https://www.androidpolice.com/wp-content/uploads/2020/02/surface-duo-ui-hero-1.png 1280w" sizes="(max-width: 728px) 100vw, 728px"/></a></p>
+<p>When it comes to the software on smartphones with folding displays (or, at least, a display field that can close in on itself), manufacturers are still out there trying to figure out the usability picture. Microsoft is faced with that very challenge right now as it continues developing its Android-powered dual-screen mobile device, <a href="https://www.androidpolice.com/2020/01/23/microsoft-releases-preview-sdk-for-its-surface-duo-dual-screen-android-phone/" target="_blank" rel="noopener noreferrer">the Surface Duo</a> &#8212; and we might have just gotten a peek at a trick up its sleeve.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/leaked-surface-duo-demo-videos-show-off-peeking-notifications-ui/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/leaked-surface-duo-demo-videos-show-off-peeking-notifications-ui/'>Leaked Surface Duo demo videos show off 'peeking' notifications UI</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/leaked-surface-duo-demo-videos-show-off-peeking-notifications-ui/feed/</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+							</item>
+		<item>
+		<title>Prepare for warmer weather with this Rachio smart sprinkler controller for just $120</title>
+		<link>https://www.androidpolice.com/2020/02/26/prepare-for-warmer-weather-with-this-rachio-smart-sprinkler-controller-for-just-120/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/prepare-for-warmer-weather-with-this-rachio-smart-sprinkler-controller-for-just-120/#respond</comments>
+				<pubDate>Wed, 26 Feb 2020 18:17:00 +0000</pubDate>
+		<dc:creator><![CDATA[Zach Laidlaw]]></dc:creator>
+				<category><![CDATA[Deals]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[deal]]></category>
+		<category><![CDATA[deal alert]]></category>
+		<category><![CDATA[deals]]></category>
+		<category><![CDATA[rachio]]></category>
+		<category><![CDATA[smart sprinkler controller]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=664415</guid>
+				<description><![CDATA[Spring and summer are on the way
+<p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2020/02/Rachio-Smart-Sprinkler-Controller-Pro-Edition.png" class=" no-style"><img class="alignnone size-hero-size wp-image-664424" src="https://www.androidpolice.com/wp-content/uploads/2020/02/Rachio-Smart-Sprinkler-Controller-Pro-Edition-728x455.png" alt="" width="728" height="455" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/Rachio-Smart-Sprinkler-Controller-Pro-Edition-728x455.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/Rachio-Smart-Sprinkler-Controller-Pro-Edition-329x206.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/Rachio-Smart-Sprinkler-Controller-Pro-Edition-668x418.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/Rachio-Smart-Sprinkler-Controller-Pro-Edition-161x101.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/Rachio-Smart-Sprinkler-Controller-Pro-Edition-217x136.png 217w, https://www.androidpolice.com/wp-content/uploads/2020/02/Rachio-Smart-Sprinkler-Controller-Pro-Edition.png 1456w" sizes="(max-width: 728px) 100vw, 728px"/></a></p>
+<p>It's going to be getting warm soon in the northern hemisphere, and along with a new season will come plenty of opportunities for heat and maybe even droughts to ravage your lawn. To help keep your yard looking healthy while also cutting down on watering costs, check out the&#160;<a href="https://tools.woot.com/offers/rachio-16-zone-smart-sprinkler-controller-pro">Rachio Pro Edition Smart Sprinkler controller for just $119.99 ($110 off) at Woot.</a></p>
+<p><span id="more-664415"></span></p>
+<p>This Rachio smart sprinkler controller is a connected solution built to wield your existing sprinkler system in up to 16 different zones.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/prepare-for-warmer-weather-with-this-rachio-smart-sprinkler-controller-for-just-120/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/prepare-for-warmer-weather-with-this-rachio-smart-sprinkler-controller-for-just-120/'>Prepare for warmer weather with this Rachio smart sprinkler controller for just $120</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/prepare-for-warmer-weather-with-this-rachio-smart-sprinkler-controller-for-just-120/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>17 temporarily free and 27 on-sale apps and games for Wednesday</title>
+		<link>https://www.androidpolice.com/2020/02/26/android-app-game-sales-feb-26-2020/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/android-app-game-sales-feb-26-2020/#respond</comments>
+				<pubDate>Wed, 26 Feb 2020 18:08:22 +0000</pubDate>
+		<dc:creator><![CDATA[Matthew Sholtz]]></dc:creator>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Deals]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[android app sales]]></category>
+		<category><![CDATA[app sales]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[deal]]></category>
+		<category><![CDATA[deal alert]]></category>
+		<category><![CDATA[free]]></category>
+		<category><![CDATA[free apps]]></category>
+		<category><![CDATA[free games]]></category>
+		<category><![CDATA[game sales]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google play]]></category>
+		<category><![CDATA[icon packs]]></category>
+		<category><![CDATA[play store]]></category>
+		<category><![CDATA[play store free]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=664412</guid>
+				<description><![CDATA[<p><a href="https://www.androidpolice.com/wp-content/uploads/2020/02/nexus2cee_wednesday-5.png" class=" no-style"><img class="alignnone size-hero-size wp-image-664414" src="https://www.androidpolice.com/wp-content/uploads/2020/02/nexus2cee_wednesday-5-728x291.png" alt="" width="728" height="291" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/nexus2cee_wednesday-5-728x291.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/nexus2cee_wednesday-5-329x131.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/nexus2cee_wednesday-5-668x267.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/nexus2cee_wednesday-5-161x64.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/nexus2cee_wednesday-5-217x87.png 217w" sizes="(max-width: 728px) 100vw, 728px"/></a></p>
+<p>Welcome to Wednesday, everyone. It's the middle of the week, and so this is a slower time for sales, but that doesn't mean I don't have a few standouts to share today. So if you're looking for a solid puzzler, <a href="https://play.google.com/store/apps/details?id=com.Illam.Mirage">Mirage: Illusions</a> is completely free today, and if you enjoy spooky adventure games, then <a href="https://play.google.com/store/apps/details?id=com.winterveilstudios.DISTRAINT2">Distraint 2</a> is a solid pickup at more than half-off. As always, I've highlighted the interesting titles in bold to make discovery easier.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/android-app-game-sales-feb-26-2020/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/android-app-game-sales-feb-26-2020/'>17 temporarily free and 27 on-sale apps and games for Wednesday</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/android-app-game-sales-feb-26-2020/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Amazon&#039;s Fire tablets are slow, but you can (probably) make them faster</title>
+		<link>https://www.androidpolice.com/2020/02/26/fire-tablet-slow-performance-speed-guide/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/fire-tablet-slow-performance-speed-guide/#comments</comments>
+				<pubDate>Wed, 26 Feb 2020 17:36:26 +0000</pubDate>
+		<dc:creator><![CDATA[Corbin Davenport]]></dc:creator>
+				<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tips & Tutorials]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[amazon fire tablet]]></category>
+		<category><![CDATA[fire tablet]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=580705&#038;uniqid=5e56b06506914</guid>
+				<description><![CDATA[<p><a href="https://www.androidpolice.com/wp-content/uploads/2019/08/fire-tablet-generic-hero.jpg" class=" no-style"><img class="alignnone size-full wp-image-580724" src="https://www.androidpolice.com/wp-content/uploads/2019/08/fire-tablet-generic-hero.jpg" alt="" width="728" height="410" srcset="https://www.androidpolice.com/wp-content/uploads/2019/08/fire-tablet-generic-hero.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2019/08/fire-tablet-generic-hero-329x185.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2019/08/fire-tablet-generic-hero-668x376.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2019/08/fire-tablet-generic-hero-161x91.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2019/08/fire-tablet-generic-hero-217x122.jpg 217w" sizes="(max-width: 728px) 100vw, 728px"/></a></p>
+<p>Amazon's Fire tablets are incredibly popular for one reason: they are cheaper than most of the competition. The catch is that most models compromise on performance to an extreme degree, typically with low-power processors and a shortage of memory. Most mobile applications, especially games, don't fare as well on Fire tablets as they do on modern smartphones.</p>
+<p>However, there are a few ways you can speed up a Fire tablet. We're not <a href="https://www.youtube.com/watch?v=t9SVhg6ZENw">miracle workers</a>, and these steps won't turn your tablet into a high-end device, but there's a good chance you'll see a noticeable difference in performance afterwards.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/fire-tablet-slow-performance-speed-guide/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/fire-tablet-slow-performance-speed-guide/'>Amazon's Fire tablets are slow, but you can (probably) make them faster</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/fire-tablet-slow-performance-speed-guide/feed/</wfw:commentRss>
+		<slash:comments>49</slash:comments>
+							</item>
+		<item>
+		<title>Amazon Cloud Cam down to new all-time low of $60 (half off) at Woot right now</title>
+		<link>https://www.androidpolice.com/2020/02/26/amazon-cloud-cam-down-to-new-all-time-low-of-60-half-off-at-woot-right-now/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/amazon-cloud-cam-down-to-new-all-time-low-of-60-half-off-at-woot-right-now/#respond</comments>
+				<pubDate>Wed, 26 Feb 2020 17:19:21 +0000</pubDate>
+		<dc:creator><![CDATA[Jules Wang]]></dc:creator>
+				<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Deals]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Security Cameras]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[amazon cloud cam]]></category>
+		<category><![CDATA[deals]]></category>
+		<category><![CDATA[security cameras]]></category>
+		<category><![CDATA[woot]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=664397</guid>
+				<description><![CDATA[Pay a little to get a security camera that does a lot
+<p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2018/01/nexus2cee_cc2.jpg" class=" no-style"><img class="alignnone size-hero-size wp-image-472079" src="https://www.androidpolice.com/wp-content/uploads/2018/01/nexus2cee_cc2-728x410.jpg" alt="" width="728" height="410" srcset="https://www.androidpolice.com/wp-content/uploads/2018/01/nexus2cee_cc2-728x410.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2018/01/nexus2cee_cc2-329x185.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2018/01/nexus2cee_cc2-768x432.jpg 768w, https://www.androidpolice.com/wp-content/uploads/2018/01/nexus2cee_cc2-668x376.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2018/01/nexus2cee_cc2-161x91.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2018/01/nexus2cee_cc2-217x122.jpg 217w, https://www.androidpolice.com/wp-content/uploads/2018/01/nexus2cee_cc2.jpg 1600w" sizes="(max-width: 728px) 100vw, 728px"/></a></p>
+<p>If today's the day you're thinking of picking up a security camera, you might want to click fast on this deal for the Amazon Cloud Cam. Woot has a one-day sale on at its lowest price yet.</p>
+<p><span id="more-664397"></span></p>
+<p>The Cloud Cam has been a steady option since <a href="https://www.androidpolice.com/2018/01/31/amazon-cloud-cam-review-good-value-missing-features/" target="_blank" rel="noopener noreferrer">when we reviewed it</a> in 2018 with all the typical features you'd want from a modern security camera: wide field of view, live watch capability, audio capture from an omnidirectional microphone, and motion-activated LED lighting at night.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/amazon-cloud-cam-down-to-new-all-time-low-of-60-half-off-at-woot-right-now/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/amazon-cloud-cam-down-to-new-all-time-low-of-60-half-off-at-woot-right-now/'>Amazon Cloud Cam down to new all-time low of $60 (half off) at Woot right now</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/amazon-cloud-cam-down-to-new-all-time-low-of-60-half-off-at-woot-right-now/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Samsung Sound Assistant gets 2020 update, adds redesigned volume slider</title>
+		<link>https://www.androidpolice.com/2020/02/26/samsung-sound-assistant-gets-2020-update-adds-redesigned-volume-slider/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/samsung-sound-assistant-gets-2020-update-adds-redesigned-volume-slider/#comments</comments>
+				<pubDate>Wed, 26 Feb 2020 17:10:40 +0000</pubDate>
+		<dc:creator><![CDATA[Zachary Kew-Denniss]]></dc:creator>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[app updates]]></category>
+		<category><![CDATA[Good Lock]]></category>
+		<category><![CDATA[sound assistant]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=664335</guid>
+				<description><![CDATA[Let&#039;s get vertical, vertical
+<p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2020/02/samsung-volume.png" class=" no-style"><img class="alignnone size-hero-size wp-image-664398" src="https://www.androidpolice.com/wp-content/uploads/2020/02/samsung-volume-728x513.png" alt="" width="728" height="513" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/samsung-volume-728x513.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/samsung-volume-329x232.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/samsung-volume-668x471.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/samsung-volume-161x113.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/samsung-volume-217x153.png 217w, https://www.androidpolice.com/wp-content/uploads/2020/02/samsung-volume.png 1440w" sizes="(max-width: 728px) 100vw, 728px"/></a></p>
+<p>Samsung <a href="https://www.androidpolice.com/2020/02/18/samsung-good-lock-2020-update-arrives-with-support-for-android-10-and-one-ui-2-0-apk-downloads/">started updating Good Lock</a>, its one-stop-shop for customization, earlier this month to support Android 10. Notably absent was Sound Assistant, a tool offering in-depth tweaks to the system volume panel, as well as delving into the volume mixer to get things sounding just right. Today, Sound Assistant joins the rest of the Good Lock family with a new look and new features.<span id="more-664335"></span></p>
+<p style="text-align: center;" class="text-center side-by-side-images images-3 "><a href="https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144154_One-UI-Home.png" style="flex:0.4734;" data-ratio="0.4734" class="image-container  no-style"><img class="alignnone size-medium wp-image-664342" src="https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144154_One-UI-Home-329x695.png" alt="" width="329" height="695" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144154_One-UI-Home-329x695.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144154_One-UI-Home-668x1410.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144154_One-UI-Home-161x340.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144154_One-UI-Home-217x458.png 217w, https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144154_One-UI-Home-728x1537.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144154_One-UI-Home.png 1440w" sizes="(max-width: 329px) 100vw, 329px"/></a> <a href="https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144201_One-UI-Home.png" style="flex:0.4734;" data-ratio="0.4734" class="image-container  no-style"><img class="alignnone size-medium wp-image-664341" src="https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144201_One-UI-Home-329x695.png" alt="" width="329" height="695" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144201_One-UI-Home-329x695.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144201_One-UI-Home-668x1410.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144201_One-UI-Home-161x340.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144201_One-UI-Home-217x458.png 217w, https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144201_One-UI-Home-728x1537.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144201_One-UI-Home.png 1440w" sizes="(max-width: 329px) 100vw, 329px"/></a> <a href="https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144209_One-UI-Home.png" style="flex:0.4734;" data-ratio="0.4734" class="image-container  no-style"><img class="alignnone size-medium wp-image-664340" src="https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144209_One-UI-Home-329x695.png" alt="" width="329" height="695" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144209_One-UI-Home-329x695.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144209_One-UI-Home-668x1410.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144209_One-UI-Home-161x340.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144209_One-UI-Home-217x458.png 217w, https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144209_One-UI-Home-728x1537.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/Screenshot_20200226-144209_One-UI-Home.png 1440w" sizes="(max-width: 329px) 100vw, 329px"/></a></p><p class="text-center"></p>
+<p style="text-align: center;"><em><strong>Left:&#160;</strong></em><em>Vertical volume slider, <strong>Middle: </strong>Sound panel, <strong>Right:&#160;</strong>Sound mixer</em></p>
+<p>Most notable on the list of changes is what Samsung calls Sero, a theme that moves the volume slider to the side of the screen, matching the design stock Android switched to with Pie.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/samsung-sound-assistant-gets-2020-update-adds-redesigned-volume-slider/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/samsung-sound-assistant-gets-2020-update-adds-redesigned-volume-slider/'>Samsung Sound Assistant gets 2020 update, adds redesigned volume slider</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/samsung-sound-assistant-gets-2020-update-adds-redesigned-volume-slider/feed/</wfw:commentRss>
+		<slash:comments>25</slash:comments>
+							</item>
+		<item>
+		<title>Tubular deal: Get this Bluetooth-compatible vacuum tube amp and speaker set for just $60 ($220 off) (Update: Back in stock)</title>
+		<link>https://www.androidpolice.com/2020/02/26/tubular-deal-get-this-bluetooth-compatible-vacuum-tube-amp-and-speaker-set-for-just-60-220-off/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/tubular-deal-get-this-bluetooth-compatible-vacuum-tube-amp-and-speaker-set-for-just-60-220-off/#comments</comments>
+				<pubDate>Wed, 26 Feb 2020 16:59:16 +0000</pubDate>
+		<dc:creator><![CDATA[Garrett Bridges]]></dc:creator>
+				<category><![CDATA[Deals]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[bluetooth]]></category>
+		<category><![CDATA[bluetooth speaker]]></category>
+		<category><![CDATA[solis]]></category>
+		<category><![CDATA[speaker]]></category>
+		<category><![CDATA[Target]]></category>
+		<category><![CDATA[vacuum tube]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=664192&#038;uniqid=5e56a3fc216a9</guid>
+				<description><![CDATA[🤘
+<ul class="list-unstyled list-banners"><li>
+            <a class="banner banner-update" title="View the 2020/02/25 10:32pm PST Update" href="https://www.androidpolice.com/2020/02/26/tubular-deal-get-this-bluetooth-compatible-vacuum-tube-amp-and-speaker-set-for-just-60-220-off/#1">
+            <span class="update-header">Update<span class="update_1">&#160;1</span>: 2020/02/25 10:32pm PST</span>
+            <div class="ellipsize">
+            <span class="update-title">Sadly&#8212;but predictably&#8212;the speakers are now sold out on Target's site.</span>
+            </div>
+            </a>
+            </li><li>
+            <a class="banner banner-update" title="View the 2020/02/26 8:59am PST Update" href="https://www.androidpolice.com/2020/02/26/tubular-deal-get-this-bluetooth-compatible-vacuum-tube-amp-and-speaker-set-for-just-60-220-off/#2">
+            <span class="update-header">Update<span class="update_2">&#160;2</span>: 2020/02/26 8:59am PST</span>
+            <div class="ellipsize">
+            <span class="update-title">Good news, everyone! Target's got more stock available, and that heavily discounted price is still around. Get 'em while you can.</span>
+            </div>
+            </a>
+            </li></ul><p><a href="https://www.androidpolice.com/wp-content/uploads/2020/02/2020-02-25-16_27_23-SOLIS-Bluetooth-Stereo-Vacuum-Tube-Audio-System-Black-SO-7500-_-Target.png" class=" no-style"><img class="alignnone size-hero-size wp-image-664193" src="https://www.androidpolice.com/wp-content/uploads/2020/02/2020-02-25-16_27_23-SOLIS-Bluetooth-Stereo-Vacuum-Tube-Audio-System-Black-SO-7500-_-Target-728x436.png" alt="" width="728" height="436" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/2020-02-25-16_27_23-SOLIS-Bluetooth-Stereo-Vacuum-Tube-Audio-System-Black-SO-7500-_-Target-728x436.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/2020-02-25-16_27_23-SOLIS-Bluetooth-Stereo-Vacuum-Tube-Audio-System-Black-SO-7500-_-Target-329x197.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/2020-02-25-16_27_23-SOLIS-Bluetooth-Stereo-Vacuum-Tube-Audio-System-Black-SO-7500-_-Target-668x400.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/2020-02-25-16_27_23-SOLIS-Bluetooth-Stereo-Vacuum-Tube-Audio-System-Black-SO-7500-_-Target-161x96.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/2020-02-25-16_27_23-SOLIS-Bluetooth-Stereo-Vacuum-Tube-Audio-System-Black-SO-7500-_-Target-217x130.png 217w, https://www.androidpolice.com/wp-content/uploads/2020/02/2020-02-25-16_27_23-SOLIS-Bluetooth-Stereo-Vacuum-Tube-Audio-System-Black-SO-7500-_-Target.png 1004w" sizes="(max-width: 728px) 100vw, 728px"/></a></p>
+<p>Bluetooth speakers are a dime-a-dozen these days, but a true audio system that happens to include Bluetooth connectivity is something you don't see on the cheap very often.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/tubular-deal-get-this-bluetooth-compatible-vacuum-tube-amp-and-speaker-set-for-just-60-220-off/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/tubular-deal-get-this-bluetooth-compatible-vacuum-tube-amp-and-speaker-set-for-just-60-220-off/'>Tubular deal: Get this Bluetooth-compatible vacuum tube amp and speaker set for just $60 ($220 off) (Update: Back in stock)</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/tubular-deal-get-this-bluetooth-compatible-vacuum-tube-amp-and-speaker-set-for-just-60-220-off/feed/</wfw:commentRss>
+		<slash:comments>18</slash:comments>
+							</item>
+		<item>
+		<title>LEGO Legacy: Heroes Unboxed is a F2P collect-a-thon RPG, now available on the Play Store (Update)</title>
+		<link>https://www.androidpolice.com/2020/02/26/lego-legacy-heroes-unboxed-android-pre-registration/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/lego-legacy-heroes-unboxed-android-pre-registration/#comments</comments>
+				<pubDate>Wed, 26 Feb 2020 16:30:41 +0000</pubDate>
+		<dc:creator><![CDATA[Matthew Sholtz]]></dc:creator>
+				<category><![CDATA[Games]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[game release]]></category>
+		<category><![CDATA[gameloft]]></category>
+		<category><![CDATA[lego]]></category>
+		<category><![CDATA[LEGO Legacy Heroes Unboxed]]></category>
+		<category><![CDATA[MARVEL Strike Force clone]]></category>
+		<category><![CDATA[pre-registration]]></category>
+		<category><![CDATA[upcoming release]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=623697&#038;uniqid=5e569d4b96998</guid>
+				<description><![CDATA[<ul class="list-unstyled list-banners"><li>
+            <a class="banner banner-update" title="View the 2020/02/26 8:31am PST Update" href="https://www.androidpolice.com/2020/02/26/lego-legacy-heroes-unboxed-android-pre-registration/#1">
+            <span class="update-header">Update<span class="update_1">&#160;1</span>: 2020/02/26 8:31am PST</span>
+            <div class="ellipsize">
+            <span class="update-title">LEGO Legacy: Heroes Unboxed is officially available</span>
+            </div>
+            </a>
+            </li></ul><p><a href="https://www.androidpolice.com/wp-content/uploads/2019/09/LEGO-Legacy-Heroes-Unboxed.jpg" class=" no-style"><img class="alignnone size-hero-size wp-image-623698" src="https://www.androidpolice.com/wp-content/uploads/2019/09/LEGO-Legacy-Heroes-Unboxed-728x409.jpg" alt="" width="668" height="375" srcset="https://www.androidpolice.com/wp-content/uploads/2019/09/LEGO-Legacy-Heroes-Unboxed-728x409.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2019/09/LEGO-Legacy-Heroes-Unboxed-329x185.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2019/09/LEGO-Legacy-Heroes-Unboxed-768x432.jpg 768w, https://www.androidpolice.com/wp-content/uploads/2019/09/LEGO-Legacy-Heroes-Unboxed-668x376.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2019/09/LEGO-Legacy-Heroes-Unboxed-161x91.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2019/09/LEGO-Legacy-Heroes-Unboxed-217x122.jpg 217w, https://www.androidpolice.com/wp-content/uploads/2019/09/LEGO-Legacy-Heroes-Unboxed.jpg 1517w" sizes="(max-width: 668px) 100vw, 668px"/></a></p>
+<p>For some reason, LEGO has been busy this year <a href="https://www.androidpolice.com/2019/07/02/lego-tower-is-a-new-business-sim-from-nimblebit-open-for-pre-registration-on-the-play-store/">lending out</a> its brand to <a href="https://www.theverge.com/2018/1/16/16896058/lego-partnership-tencent-china-pivot">nefarious developers</a>. Last week <a href="https://www.androidpolice.com/2019/09/03/lego-star-wars-battles-android-2020/">LEGO Star Wars Battles was announced</a>, and it appears to be a free-to-play Clash Royale clone from Warner Bros. Today Gameloft's <a href="https://play.google.com/store/apps/details?id=com.gameloft.anmp.lego.heroes">LEGO Legacy: Heroes Unboxed</a> arrived on the Play Store for pre-registration, and it looks like a <a href="https://play.google.com/store/apps/details?id=com.foxnextgames.m3&#38;hl=en_US">MARVEL Strike Force</a> clone.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/lego-legacy-heroes-unboxed-android-pre-registration/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/lego-legacy-heroes-unboxed-android-pre-registration/'>LEGO Legacy: Heroes Unboxed is a F2P collect-a-thon RPG, now available on the Play Store (Update)</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/lego-legacy-heroes-unboxed-android-pre-registration/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+							</item>
+		<item>
+		<title>Every new Android 11 feature we&#039;ve spotted so far</title>
+		<link>https://www.androidpolice.com/2020/02/26/every-new-android-11-feature-weve-spotted-so-far/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/every-new-android-11-feature-weve-spotted-so-far/#comments</comments>
+				<pubDate>Wed, 26 Feb 2020 16:18:44 +0000</pubDate>
+		<dc:creator><![CDATA[Ryne Hager]]></dc:creator>
+				<category><![CDATA[Android 11]]></category>
+		<category><![CDATA[Android OS]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Android 11 Changelog]]></category>
+		<category><![CDATA[Android 11 differences]]></category>
+		<category><![CDATA[Android 11 features]]></category>
+		<category><![CDATA[Android R]]></category>
+		<category><![CDATA[Every Android 11 feature]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=663796</guid>
+				<description><![CDATA[A short list for now, but expect it to get longer with later previews
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2020/02/Dont-use-Rynes-Hero.png" class=" no-style"><img class="alignnone size-hero-size wp-image-663808" src="https://www.androidpolice.com/wp-content/uploads/2020/02/Dont-use-Rynes-Hero-728x409.png" alt="" width="728" height="409" srcset="https://www.androidpolice.com/wp-content/uploads/2020/02/Dont-use-Rynes-Hero-728x409.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/02/Dont-use-Rynes-Hero-329x185.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/02/Dont-use-Rynes-Hero-668x375.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/02/Dont-use-Rynes-Hero-161x90.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/02/Dont-use-Rynes-Hero-217x122.png 217w, https://www.androidpolice.com/wp-content/uploads/2020/02/Dont-use-Rynes-Hero.png 1185w" sizes="(max-width: 728px) 100vw, 728px"/></a></p>
+<p>It's that time of the year. Android 11 is here &#8212; or, at least, the first early developer previews are. We're continually combing through these new versions looking for changes, willing canaries in the Android coal mines so that you, our readers, can see what's new without having to <em>actually</em> risk installing it on your own phone (if you don't want to). Now that we've had some time to look around, here's everything new we've spotted.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/every-new-android-11-feature-weve-spotted-so-far/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/every-new-android-11-feature-weve-spotted-so-far/'>Every new Android 11 feature we've spotted so far</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/every-new-android-11-feature-weve-spotted-so-far/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+							</item>
+		<item>
+		<title>Verizon launches its own Android TV set-top box, called Stream TV (Update: Netflix and Prime Video support)</title>
+		<link>https://www.androidpolice.com/2020/02/26/verizon-launches-its-own-android-tv-set-top-box-called-stream-tv/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/verizon-launches-its-own-android-tv-set-top-box-called-stream-tv/#comments</comments>
+				<pubDate>Wed, 26 Feb 2020 15:56:05 +0000</pubDate>
+		<dc:creator><![CDATA[Cody English]]></dc:creator>
+				<category><![CDATA[Android TV]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Verizon Wireless]]></category>
+		<category><![CDATA[android tv]]></category>
+		<category><![CDATA[stream tv]]></category>
+		<category><![CDATA[streaming video]]></category>
+		<category><![CDATA[tv]]></category>
+		<category><![CDATA[verizon stream tv]]></category>
+		<category><![CDATA[verizon wireless]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=640193&#038;uniqid=5e56963d7eef3</guid>
+				<description><![CDATA[<ul class="list-unstyled list-banners"><li>
+            <a class="banner banner-update" title="View the 2019/11/13 7:48am PST Update" href="https://www.androidpolice.com/2020/02/26/verizon-launches-its-own-android-tv-set-top-box-called-stream-tv/#1">
+            <span class="update-header">Update<span class="update_1">&#160;1</span>: 2019/11/13 7:48am PST</span>
+            <div class="ellipsize">
+            <span class="update-title">
+We've tossed a little asterisk (*) up with that claim of broad app and game support above, as some of the Stream TV's limitations come to light. Many of you</span>
+            </div>
+            </a>
+            </li><li>
+            <a class="banner banner-update" title="View the 2020/02/26 8:00am PST Update" href="https://www.androidpolice.com/2020/02/26/verizon-launches-its-own-android-tv-set-top-box-called-stream-tv/#2">
+            <span class="update-header">Update<span class="update_2">&#160;2</span>: 2020/02/26 8:00am PST</span>
+            <div class="ellipsize">
+            <span class="update-title">Netflix and Prime video</span>
+            </div>
+            </a>
+            </li></ul><p><a href="https://www.androidpolice.com/wp-content/uploads/2019/11/stream-tv-verizon.png" class=" no-style"><img class="alignnone size-hero-size wp-image-640195" src="https://www.androidpolice.com/wp-content/uploads/2019/11/stream-tv-verizon-728x451.png" alt="" width="668" height="414" srcset="https://www.androidpolice.com/wp-content/uploads/2019/11/stream-tv-verizon-728x451.png 728w, https://www.androidpolice.com/wp-content/uploads/2019/11/stream-tv-verizon-329x204.png 329w, https://www.androidpolice.com/wp-content/uploads/2019/11/stream-tv-verizon-768x475.png 768w, https://www.androidpolice.com/wp-content/uploads/2019/11/stream-tv-verizon-668x414.png 668w, https://www.androidpolice.com/wp-content/uploads/2019/11/stream-tv-verizon-161x100.png 161w, https://www.androidpolice.com/wp-content/uploads/2019/11/stream-tv-verizon-217x134.png 217w, https://www.androidpolice.com/wp-content/uploads/2019/11/stream-tv-verizon.png 840w" sizes="(max-width: 668px) 100vw, 668px"/></a></p>
+<p>Today, Verizon introduced its <a href="https://twitter.com/androidtv_rumor/status/1193052932087922688?s=19">rumored</a> Android TV-powered set-top box. The Verizon Stream TV is available to order directly from the company's site. Other than the signature red checkmark on top, the product is unbranded, and we haven't confirmed the manufacturer yet (though one source tells us it's very similar to<a href="https://www.androidpolice.com/2019/11/05/xiaomi-mi-box-s-android-9-pie-beta/"> Xiaomi's Mi Box</a>).<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/verizon-launches-its-own-android-tv-set-top-box-called-stream-tv/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/verizon-launches-its-own-android-tv-set-top-box-called-stream-tv/'>Verizon launches its own Android TV set-top box, called Stream TV (Update: Netflix and Prime Video support)</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/verizon-launches-its-own-android-tv-set-top-box-called-stream-tv/feed/</wfw:commentRss>
+		<slash:comments>64</slash:comments>
+							</item>
+		<item>
+		<title>Asus Chromebook Flip C436 preorders start at $800, making it the most expensive Flip yet (Update: Coming in April)</title>
+		<link>https://www.androidpolice.com/2020/02/26/asus-chromebook-flip-c436-preorders-start-at-800-making-it-the-most-expensive-flip-yet/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/asus-chromebook-flip-c436-preorders-start-at-800-making-it-the-most-expensive-flip-yet/#comments</comments>
+				<pubDate>Wed, 26 Feb 2020 15:49:33 +0000</pubDate>
+		<dc:creator><![CDATA[Corbin Davenport]]></dc:creator>
+				<category><![CDATA[ASUS]]></category>
+		<category><![CDATA[Chromebooks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[asus chromebook flip c436]]></category>
+		<category><![CDATA[chromebook]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=655601&#038;uniqid=5e569449ba6e1</guid>
+				<description><![CDATA[<ul class="list-unstyled list-banners"><li>
+            <a class="banner banner-update" title="View the 2020/02/13 10:21am PST Update" href="https://www.androidpolice.com/2020/02/26/asus-chromebook-flip-c436-preorders-start-at-800-making-it-the-most-expensive-flip-yet/#1">
+            <span class="update-header">Update<span class="update_1">&#160;1</span>: 2020/02/13 10:21am PST</span>
+            <div class="ellipsize">
+            <span class="update-title">Product listings for the C436 were taken down shortly after they went live, leading some to speculate that they had gone live too early. Asus recently confirmed to Chrome</span>
+            </div>
+            </a>
+            </li><li>
+            <a class="banner banner-update" title="View the 2020/02/26 7:52am PST Update" href="https://www.androidpolice.com/2020/02/26/asus-chromebook-flip-c436-preorders-start-at-800-making-it-the-most-expensive-flip-yet/#2">
+            <span class="update-header">Update<span class="update_2">&#160;2</span>: 2020/02/26 7:52am PST</span>
+            <div class="ellipsize">
+            <span class="update-title">New release date</span>
+            </div>
+            </a>
+            </li></ul><p><a href="https://www.androidpolice.com/wp-content/uploads/2020/01/flipc436-3.jpg" class=" no-style"><img class="alignnone size-full wp-image-652858" src="https://www.androidpolice.com/wp-content/uploads/2020/01/flipc436-3.jpg" alt="" width="696" height="436" srcset="https://www.androidpolice.com/wp-content/uploads/2020/01/flipc436-3.jpg 696w, https://www.androidpolice.com/wp-content/uploads/2020/01/flipc436-3-329x206.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2020/01/flipc436-3-668x418.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2020/01/flipc436-3-161x101.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2020/01/flipc436-3-217x136.jpg 217w" sizes="(max-width: 696px) 100vw, 696px"/></a></p>
+<p>Asus revealed its new flagship Chromebook at CES <a href="https://www.androidpolice.com/2020/01/06/asus-reveals-chromebook-flip-c436-with-10th-gen-intel-cpus-and-better-speakers/">earlier this month</a>, the Flip C436. Compared to the previous <a href="https://www.androidpolice.com/2019/05/04/asus-chromebook-flip-c434-review/">C434</a>, it offers a thinner design, significant processor upgrades, and more storage.<div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/asus-chromebook-flip-c436-preorders-start-at-800-making-it-the-most-expensive-flip-yet/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/asus-chromebook-flip-c436-preorders-start-at-800-making-it-the-most-expensive-flip-yet/'>Asus Chromebook Flip C436 preorders start at $800, making it the most expensive Flip yet (Update: Coming in April)</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/asus-chromebook-flip-c436-preorders-start-at-800-making-it-the-most-expensive-flip-yet/feed/</wfw:commentRss>
+		<slash:comments>32</slash:comments>
+							</item>
+		<item>
+		<title>Plants vs. Zombies 3 leaves pre-alpha testing, enters soft launch in select territories</title>
+		<link>https://www.androidpolice.com/2020/02/26/plants-vs-zombies-3-soft-launch-android/</link>
+				<comments>https://www.androidpolice.com/2020/02/26/plants-vs-zombies-3-soft-launch-android/#comments</comments>
+				<pubDate>Wed, 26 Feb 2020 15:32:56 +0000</pubDate>
+		<dc:creator><![CDATA[Matthew Sholtz]]></dc:creator>
+				<category><![CDATA[Games]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[electronic arts]]></category>
+		<category><![CDATA[free to play]]></category>
+		<category><![CDATA[in-app purchases]]></category>
+		<category><![CDATA[Plants vs. Zombies 3]]></category>
+		<category><![CDATA[soft launch]]></category>
+		<category><![CDATA[tower defense]]></category>
+		<category><![CDATA[upcoming release]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=664334</guid>
+				<description><![CDATA[EA hasn&#039;t released Plants vs. Zombies 3 just yet
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2019/07/plants-vs-zombies.png" class=" no-style"><img class="alignnone size-hero-size wp-image-575530" src="https://www.androidpolice.com/wp-content/uploads/2019/07/plants-vs-zombies-728x434.png" alt="" width="728" height="434" srcset="https://www.androidpolice.com/wp-content/uploads/2019/07/plants-vs-zombies-728x434.png 728w, https://www.androidpolice.com/wp-content/uploads/2019/07/plants-vs-zombies-329x196.png 329w, https://www.androidpolice.com/wp-content/uploads/2019/07/plants-vs-zombies-768x458.png 768w, https://www.androidpolice.com/wp-content/uploads/2019/07/plants-vs-zombies-668x399.png 668w, https://www.androidpolice.com/wp-content/uploads/2019/07/plants-vs-zombies-161x96.png 161w, https://www.androidpolice.com/wp-content/uploads/2019/07/plants-vs-zombies-217x129.png 217w, https://www.androidpolice.com/wp-content/uploads/2019/07/plants-vs-zombies.png 1421w" sizes="(max-width: 728px) 100vw, 728px"/></a></p>
+<p><span data-preserver-spaces="true">Electronic Arts <a href="https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-2/news/plants-vs-zombies-3-soft-launch">recently revealed</a> that&#160;</span><a class="_e75a791d-denali-editor-page-rtfLink" href="https://play.google.com/store/apps/details?id=com.ea.gp.pvz3" target="_blank" rel="noopener noreferrer"><span data-preserver-spaces="true">Plants vs. Zombies 3</span></a><span data-preserver-spaces="true">&#160;has finally left its&#160;</span><a class="_e75a791d-denali-editor-page-rtfLink" href="https://www.androidpolice.com/2019/07/16/plants-vs-zombies-3-pre-alpha-android/" target="_blank" rel="noopener noreferrer"><span data-preserver-spaces="true">pre-alpha testing phase</span></a><span data-preserver-spaces="true"> and has now entered into a soft-launch release cycle for select territories, and the Philippines is the first country to gain access. More countries will be added to the soft launch list in the future, though EA is still tight-lipped about any sort of expected time frame, and so the development of Plants vs. Zombies 3 will continue to trudge along during this technical testing phase.</span><div class=clear></div> <a href="https://www.androidpolice.com/2020/02/26/plants-vs-zombies-3-soft-launch-android/" class="read-more">Read More</a></p><p><a href='https://www.androidpolice.com/2020/02/26/plants-vs-zombies-3-soft-launch-android/'>Plants vs. Zombies 3 leaves pre-alpha testing, enters soft launch in select territories</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+						<wfw:commentRss>https://www.androidpolice.com/2020/02/26/plants-vs-zombies-3-soft-launch-android/feed/</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+							</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using memcached (Page is feed) 
+
+Served from: www.androidpolice.com @ 2020-02-27 01:54:52 by W3 Total Cache
+-->

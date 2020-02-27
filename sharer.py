@@ -1,0 +1,2 @@
+from sharerapp import app
+

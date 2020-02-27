@@ -1,0 +1,46 @@
+{% extends "base_logged_in.html" %}
+
+{% block content %}
+<div class="content-home">
+    <div class="sidebar">
+        <div class="feed-list-title">Your Feeds</div>
+        <div>
+            {# learned from lecture code #}
+            <form action="" method="post" novalidate>
+            {{ form.hidden_tag() }}
+            {{ form.add_link() }}
+            {{ form.add() }}
+            </form>
+        </div>
+        <div></div>
+        <ul class="feed-list">
+            {% for i in range(feed_count) %}
+            <li>
+                <a class="feed-list-li-title">{{ feed[i].title }}</a>
+                <div class="feed-detail">
+                    <p class="feed-i-id" style="display: none;">{{ feed[i].id }}</p>
+                    <p class="feed-i-title">{{ feed[i].title }}</p>
+                    <p class="feed-i-subtitle">{{ feed[i].subtitle }}</p>
+                    <p class="feed-i-link"><span>Link: </span><i><a href="{{ feed[i].link }}" target="_blank">{{ feed[i].link }}</a></i></p>
+                    <p class="feed-i-feed-link"><span>Feed Link: </span><a href="{{ feed[i].feed_link }}" target="_blank"><i>{{ feed[i].feed_link }}</i></a></p>
+                    <input type="submit" value="delete" class="delete">
+                    {# hide detail #}
+                    <input type="submit" value="hide" class="hide">
+                    <span class="top-arrow"></span>
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <section>
+        {# loading animation #}
+        <span class="loading"></span>
+        <p class="loading-text"><small>loading...Waiting time depends on the server of the website, please be patient</small></p>
+        {% for list in range(feed_count) %}
+        <div></div>
+        {% endfor %}
+    </section>
+    {# add external files learned from lecture code #}
+    <script src="{{ url_for('static', filename='script/home.js') }}"></script>
+</div>
+{% endblock %}

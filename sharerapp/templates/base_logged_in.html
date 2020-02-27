@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    {# learned from lecture code #}
+    {% if title %}
+    <title>{{ title }}</title>
+    {% endif %}
+
+    {# add external files learned from lecture code #}
+    <link rel="stylesheet" href="{{ url_for('static', filename='style/style.css') }}">
+    <script src="{{ url_for('static', filename='script/jquery-3.4.1.min.js') }}"></script>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        {# all rss logo in this project is download from iconfont.cn #}
+        <div class="name"><strong><a href="{{ url_for('index') }}" class="name">F-RSSReader<svg t="1575466754036" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2066" width="13" height="13"><path d="M42.666667 853.333333a128 128 0 1 1 256 0 128 128 0 0 1-256 0z m938.666666 128h-178.773333c0-418.986667-340.906667-759.893333-759.893333-759.893333V42.666667c517.546667 0 938.666667 421.12 938.666666 938.666666z m-298.666666 0h-182.826667c0-252.074667-205.098667-457.130667-457.173333-457.130666V341.333333c352.896 0 640 287.104 640 640z" fill="#EE802F" p-id="2067"></path></svg></a></strong><small> : a flask based web RSS reader</small></div>
+        <div class="login-register">
+            <div class="personal-center">
+                <span class="left-arrow"></span>
+                <a href="{{ url_for('home') }}">{{ user }}</a>{# learned from lecture code #}
+                {# logout form #}
+                <form class="logout" action="" method="post" novalidate>
+                {{ logout_form.hidden_tag() }}
+                {{ logout_form.logout() }}
+                </form>
+            </div>
+        </div>
+    </header>
+    {% block content %}{% endblock %}
+    <footer></footer>
+</div>
+
+{# add external files learned from lecture code #}
+<script src="{{ url_for('static', filename='script/index.js') }}"></script>
+
+</body>
+</html>
